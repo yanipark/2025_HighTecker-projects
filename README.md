@@ -5,16 +5,14 @@
 
 ---
 
-## 📂 폴더 구조
-
-### 📘 `course/`
+### 📘 `course`
 [👉 바로가기](https://github.com/yanipark/2025_HighTecker-projects/tree/main/course)  
 하이데커 수업과 관련된 모든 자료를 담는 폴더입니다.  
 - 강의 노트   
 
 ---
 
-### 📝 `personal/`
+### 📝 `personal`
 [👉 바로가기](https://github.com/yanipark/2025_HighTecker-projects/tree/main/personal)  
 개인적으로 진행한 작업을 모아둔 공간입니다.  
 - 아이디어 정리  
@@ -23,7 +21,7 @@
 
 ---
 
-### 🤝 `team/`
+### 🤝 `team`
 [👉 바로가기](https://github.com/yanipark/2025_HighTecker-projects/tree/main/team)  
 팀원들과 함께 진행한 협업 프로젝트를 정리한 폴더입니다.  
 - 해커톤 결과물  
